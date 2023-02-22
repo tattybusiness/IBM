@@ -2,8 +2,6 @@
   "name": "reveal.js",
   "version": "4.4.0",
   "description": "The HTML Presentation Framework",
-  "homepage": "https://revealjs.com",
-  "subdomain": "revealjs",
   "main": "dist/reveal.js",
   "module": "dist/reveal.esm.js",
   "license": "MIT",
@@ -12,11 +10,6 @@
     "start": "gulp serve",
     "build": "gulp build",
     "package": "gulp package"
-  },
-  "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "https://hakim.se"
   },
   "repository": {
     "type": "git",
