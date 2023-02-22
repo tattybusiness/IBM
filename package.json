@@ -2,7 +2,6 @@
   "name": "reveal.js",
   "version": "4.4.0",
   "description": "The HTML Presentation Framework",
-  "homepage": "https://revealjs.com",
   "subdomain": "revealjs",
   "main": "dist/reveal.js",
   "module": "dist/reveal.esm.js",
